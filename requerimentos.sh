@@ -20,7 +20,7 @@ sleep 5
 sudo apt install git
 sudo apt install python
 sudo apt install nodejs
-sudo apt install npn
+sudo apt install npm
 npm install -g bash-obfuscate
 git clone https://github.com/servitechsv/encriptador.git
 cd encriptador
