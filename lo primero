@@ -1,7 +1,4 @@
-# encriptador
-encritpta tus script
-
-# lo primero antes del instalador has esto primero 
+lo primero antes del instalador has esto primero 
 
 1 sudo apt install toilet
 
@@ -14,3 +11,7 @@ encritpta tus script
 5 abre terminar arrastra requerimentos.sh
 
 6 en terminal python "arrastra encriptador.sh
+
+
+
+
